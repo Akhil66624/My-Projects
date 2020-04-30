@@ -1,0 +1,38 @@
+import sqlite3 
+conn = sqlite3.connect('academics.db')
+b = conn.cursor()
+# Create table 
+b.execute('''CREATE TABLE academics (book_name text, author_n text,dep text)''')
+# Insert a row of data
+b.execute('''INSERT INTO academics VALUES ('ARTIFICIAL INTELLIGENCE','KEVIN KNIGHT','CSE')''')
+b.execute('''INSERT INTO academics VALUES ('FUNDAMENTALS OF MATHEMATICAL STATISTICS','S.C.GUPTA','MATHEMATICS')''')
+b.execute('''INSERT INTO academics VALUES (' INTRODUCTION TO THE DESIGN AND ANALYSIS OF ALGORITHM',' ANANY LEVITIN','CSE')''')
+b.execute('''INSERT INTO academics VALUES ('INTRODUCTION TO ALGORITHMS',' C.E. LEISERSON','CSE')''')
+b.execute('''INSERT INTO academics VALUES (' ARTIFICIAL INTELLIGENCE WITH PYTHON',' PRATEEK JOSHI','CSE')''')
+b.execute('''INSERT INTO academics VALUES (' OPERATING SYSTEM CONCEPTS',' GALVIN','CSE')''')
+b.execute('''INSERT INTO academics VALUES (' REAL-TIME SYSTEMS',' JANE W. S','CSE')''')
+b.execute('''INSERT INTO academics VALUES ('DATA COMMUNICATIONS AND NETWORKING',' BEHROUZ FOROUZAN','CSE')''')
+b.execute('''INSERT INTO academics VALUES ('COMPUTER NETWORKS','ANDREW S. TANENBAUM','CSE')''')
+b.execute('''INSERT INTO academics VALUES ('INTRODUCTION TO JAVA PROGRAMMING','Y. DANIEL LIANG','CSE')''')
+b.execute('''INSERT INTO academics VALUES ('ELECTRONICS AND COMMUNICATIONS','GEORGE BUSH','ECE')''')
+b.execute('''INSERT INTO academics VALUES ('SIGNALS AND SYSTEMS','ANDREW','ECE')''')
+b.execute('''INSERT INTO academics VALUES ('ANALOG VS DIGITAL SIGNALS','KEVIN','ECE')''')
+b.execute('''INSERT INTO academics VALUES ('EMF THEORY','KNIGHT','ECE')''')
+b.execute('''INSERT INTO academics VALUES ('SIGNALING AND FORMATIONS','MARTIN','ECE')''')
+b.execute('''INSERT INTO academics VALUES (' DIGITAL DESIGN PRINCIPLES AND PRACTICES',' JOHN F. WAKERLY','ECE')''')
+b.execute('''INSERT INTO academics VALUES ('ELECTRICAL ENGINEERING','KELVIN','EEE')''')
+b.execute('''INSERT INTO academics VALUES ('ELECTRICAL AND ELECTRONICS','SAM','EEE')''')
+b.execute('''INSERT INTO academics VALUES ('PRINCIPLES OF ELECTRICITY','JHON B','EEE')''')
+b.execute('''INSERT INTO academics VALUES ('POWER PRODUCTION DESIGNS','IYER','EEE')''')
+b.execute('''INSERT INTO academics VALUES ('AC &DC CURRENT','KORRY','EEE')''')
+b.execute('''INSERT INTO academics VALUES ('ENGINEERING GRAPHICS','MORRIS','MECH')''')
+b.execute('''INSERT INTO academics VALUES ('STATICS AND DYNAMICS','SURENDER K','MECH')''')
+b.execute('''INSERT INTO academics VALUES ('ENGINE DESIGN AND PRINCIPLES','MARTIN','MECH')''')
+b.execute('''INSERT INTO academics VALUES ('PRINCIPLES OF AERODYNAMICS','MARRY','MECH')''')
+b.execute('''INSERT INTO academics VALUES ('MATERIAL SCIENCES','SHRUTI RANJAN','MECH')''')
+b.execute('''INSERT INTO academics VALUES ('THERMODYNAMICS','STRUTS','MECH')''')
+# Save (commit) the changes 
+conn.commit() 
+# We can also close the connection if we are done with it.
+ # Just be sure any changes have been committed or they will be lost.
+conn.close()  
