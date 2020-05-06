@@ -1,3 +1,7 @@
+#For the first time execute journals.py,alter_table_journals.py,academics.py, alter_table_academics.py in the same order
+
+#Finally execute lms_chatbot.py 
+
 #Creating GUI with tkinter
 import tkinter
 from tkinter import *
