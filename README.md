@@ -1,3 +1,2 @@
 # github-demo
-To know the workflow of github
-To explore github
+Before directly executing the program watch procedure to execute
