@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact us Us</title>
+  <style>
+  div {
+  background-color:orange;
+  padding-top: 20px;
+  padding-right: 60px;
+  padding-bottom: 20px;
+  padding-left: 60px;
+  font-size: 25px;
+  font-family:arial;
+       }
+       p
+       {
+         background-color: white;
+         padding-left: 30px;
+         padding-right: 60px;
+         font-size: 23px;
+         font-family:arial;
+       }
+             .h1
+{
+  background: black;
+  color: orange;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.navbar 
+{
+ overflow: hidden;
+  background-color: orange;
+  margin-bottom: 30px;
+  padding-top:0px;
+  padding-bottom: 30px;
+}
+.navbar a {
+  float: left;
+  font-size: 20px;
+  color:black ;
+  text-align: center;
+  padding: 30px 50px;
+  text-decoration: none;
+}
+.navbar a:hover {
+  background-color: mediumseagreen;
+}
+.leftnav a
+{
+position: absolute;
+left:-110px;
+padding:10px;
+width:140px;
+text-decoration:none;
+font-size:20px;
+border-radius:0 10px 10px 0px;
+background-color: rgb(11,252,3);
+color: white;
+transition:0.5s;
+}
+.face
+{
+top:200px;
+
+}
+.insta
+{
+top:250px;
+}
+.what
+{
+top:300px;
+}
+.twit
+{
+top:350px;
+}
+
+.leftnav a:hover{
+
+left:-10px;
+
+}
+.div
+{
+  
+  
+width:700px;
+  height: 50%; 
+  background-repeat: no-repeat;
+  
+  background-size: cover;
+}
+input[type=text], select, input[type=password], input[type=email]
+{
+width:300px;
+  padding: 12px;
+  margin: 10px;
+  border: 8px solid rgba(206, 111, 4, 0.678);
+  border-radius: 40px;
+}
+
+input[type=submit] , input[type=reset]
+{
+ 
+  background-color: rgba(206, 111, 4, 0.678);
+  color: white;
+  padding: 10px;
+  margin: 8px;
+  border-radius: 40px;
+  cursor: pointer;
+  border: 8px solid rgba(206, 111, 4, 0.678);
+  width: 140px;
+}
+
+input[type=submit]:hover , input[type=reset]:hover{
+
+  background-color: rgba(246, 219, 130, 0.774);
+  color: black;
+  font-size: x-large;
+}
+
+input[type=text]:hover, input[type=email]:hover {
+  background-color: rgba(246, 219, 130, 0.774);
+}
+
+ input[type=checkbox]{
+    outline: 5px solid rgba(206, 111, 4, 0.678);
+outline-style: dashed;
+}
+::placeholder
+{
+
+  color: rgb(218, 214, 214);
+}
+.demo
+{
+  top: 300px;
+}
+</style>
+</head>
+<body>
+  <h1 class="h1" align="center"><i>Heaven Photographers</i></h1>
+<div class="navbar">
+  <a href="homepage1.html">Home</a>
+  <a href="family.html">Family</a>
+  <a href="wedding.html">Wedding</a>
+  <a href="engagement.html">Engagement</a>
+  <a href="about_us.html">About</a>
+  <a href="contact.html">Contact Us</a>
+ <div class="leftnav">
+    <a href="" class="face">Facebook<img src="facebook.png" width="25" style="float: right;"></a>
+<a href="" class="insta">Instagram<img src="instagram.jpg" width="25" style="float: right;"></a>
+<a href="" class="what">Whatsapp<img src="whatsapp.png" width="25" style="float: right;"></a>
+<a href="" class="twit">Twitter<img src="twitter.png" width="25" style="float: right;"></a>
+    </div>
+    <center>
+      <div class="div">
+<form name="demo" onsubmit="return(jsvalidation())">
+<table>
+<h2 style=" padding-top:80px; text-align:center"><big><b><font color="white">Don't have an exciting offer?! Come join us?!</font></b></big></h2>
+
+
+  <tr style="color:white">
+  <td>Name</td>
+  <td><input name="name" type="text" placeholder="FirstName LastName"></td>
+ </tr>
+ 
+  <tr style="color:white">
+   <td>Email ID</td>
+   <td><input name="email" type="email" placeholder="Email ID"> </td>
+  </tr>
+  
+   <tr style="color:white">
+  <td>Select city</td>
+  <td><select name="cities">
+    <option value="Select">Select</option>  
+  <option value="Noida">Noida</option>
+  <option value="Delhi">Delhi</option>
+   <option value="Noida">Hyderabad</option>
+    <option value="Noida">Banglore</option>
+  <option value="Mumbai">Mumbai</option>
+  <option value="Cape Town">Cape Town</option>
+</select></td>
+</tr>
+ <tr style="color:white">
+ <td></td>
+ <td><input type="checkbox" name="chec" value="I agree to the terms and conditions">I agree to the terms and conditions</td>
+ </tr>
+
+<tr><td></td>
+<td> <input type="submit"> <input type="reset"></td>
+
+</tr>
+
+
+</table>
+</form>
+</div>
+    </center>
+
+
+<script>
+function jsvalidation()
+{
+
+if(document.demo.name.value=="")
+{
+
+  alert("Name cannot be left blank");
+  document.demo.name.focus();
+return false;
+}
+
+if(document.demo.email.value=="")
+{
+
+  alert("Email cannot be left blank");
+  document.demo.email.focus();
+  return false;
+}
+if(document.demo.cities.value=="Select")
+{
+
+  alert("City cannot be left blank");
+  document.demo.cities.focus();
+  return false;
+}
+
+
+if(document.demo.chec.checked==false)
+{
+
+  alert("Please agree to the terms and conditions & press submit, your deatails will automatically be submitted");
+  document.demo.chec.focus();
+  return false;
+}
+}
+</script>
+</body>
+</html>
