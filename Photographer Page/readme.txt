@@ -1,2 +1,2 @@
 
-Start from the homepage1.html
+Start opening from the homepage1.html
