@@ -1,0 +1,24 @@
+S.No           Name                            Rating      Price           Availability
+1.        Asus ZenFone Lite L1()16GB          4.2        INR 5,999        available 
+
+Specifications:2GB RAM,16GB ROM(Expandable upto 256GB),13.84cm(5.45inch)FHD Display
+                       13MP Rear Camera,5MP Front Camera,3000mAh Battery
+
+2.        Realme U1(32GB)                      4.4       INR 11,390       available
+
+Specifications:3GB RAM,32GB ROM,16CM(6.3inch) Display,13MP Rear Camera,3500mAh Battery
+ 
+3.        Redmi Note 6 pro(64GB)	       4.5        INR 11,999      available 
+
+Specifications:4GB RAM,64GB ROM(Expandable upto 256GB),15.9cm(6.26inch)FHD Display
+                       12MP+5MP|20MP+2MP Dual Front Camera,4000mAh Li-polymer Battery
+ 
+4.        Realme 2 pro(128GB)		       4.5        INR 16,990      availablie
+
+ Specifications:8GB RAM|128GB ROM|Expandable upto 256GB,16cm(6.3inch)FHD Display
+                       16MP+2MP|16MP Front Camera,3500mAh Li-ion Battery
+
+5.        Apple iPhone 8 plus(256GB)           4.6       INR 79,999      available 
+
+Specifications:256GBROM,13.97cm(5.5inch),12MP+12MP|7MP Front Camera.     
+          

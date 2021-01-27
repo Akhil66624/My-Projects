@@ -1,0 +1,14 @@
+S.No          Name of item                             Price                Availability
+1.          Perfect-Fit Solid Black Casual Trouser     INR 1199             available
+
+2.         Casual White Trouser                       INR 1104              available
+
+3.          Solid Formal Blue Trouser                  INR 1149              available
+
+4.          Checkered White-Grey Trouser            INR 1150               available
+
+5.         Perfect Fit Formal Trouser                   INR 1199               available
+
+6.        Solid Henley Trouser                          INR 1149               available
+
+7.        Perfect Fit Trouser                            INR 1199               available

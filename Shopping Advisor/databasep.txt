@@ -1,0 +1,14 @@
+S.No           Name of item                   Price                Quantity                Availability
+1.         Tomato                            Rs 30                  1 Kg                    available
+
+2.        Cucumber                            Rs 40                1Kg                    available
+
+3.        Brinjal                              Rs 35                 1 Kg                     available
+
+4.        Beans                                Rs 60                1 Kg                    available
+
+5.        Capcicum                            Rs 50                  1 Kg                 available
+
+6.       Bottle Guard                          Rs 25               1 Pc                   available
+
+7.       Bitter Guard                          Rs 30               1 Kg                   available

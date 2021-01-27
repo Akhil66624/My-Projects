@@ -1,0 +1,14 @@
+S.No           Name of item                       Rating                Price               Availability
+1.         Sandisk Cruzer Blade(32GB)                4.2                  398                 available
+
+2.        Sandisk Ultra Dual Drive M3.0(32GB)         4.2                  660                 available
+
+3.        Sony Micro Vault USM16GR(16GB)              4.0                 238                  available
+
+4.        HP v715w 64GB Pen Drive                    3.6                  777                 available
+
+5.        HP 16GB Metal Pen Drive                     4.1                  375                 available
+
+6.        Sony Micro Vault USM32GN(32GB)                4.1                 428                  available
+
+7.        Toshiba-TransMemory U202(32GB)                4.0                 448                 available

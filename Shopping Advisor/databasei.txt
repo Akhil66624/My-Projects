@@ -1,0 +1,14 @@
+S.No             Name of item                        Price       Net.quantity           Availability
+1.          Himalaya Herbal Anti-Dandruf Shampoo      INR 165          200ml          available
+
+2.      Dove Anti-rescue Hair Fall Shampoo           INR 185            180ml            available
+
+3.      Parachute Coconut Hair Oil                    INR 85             200ml             available
+
+4.      Loreal Smooth & Silky Conditioner             INR 225             150ml          available
+
+5.      Gatsby Hair Cream                             INR 195            200ml          available
+
+6.      TRESemme Keratin Smooth                        INR 160            190ml           available
+
+7.      Head & Shoulder Smooth & Silky Shampoo         INR 160           190ml         available

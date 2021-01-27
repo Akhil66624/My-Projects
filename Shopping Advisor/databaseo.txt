@@ -1,0 +1,14 @@
+S.No     Name of item                        Price                Quantity                Availability
+1.         Apples                          Rs 100                  1 Kg                    available
+
+2.        Kiwi                               Rs 225                100gm                    available
+
+3.        Mangoes                            Rs 150                2 Kg                   available
+
+4.       Oranges                            Rs 90                 1 Kg                     available
+
+5.        Strawberry                        Rs 105                 500gm                   available
+
+6.       Pineapple                           Rs 65                 1 Pc                    available
+
+7.       Papaya                               Rs 50                 1 Pc                   available

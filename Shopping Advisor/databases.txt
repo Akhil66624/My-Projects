@@ -1,0 +1,14 @@
+S.No           Name of item                                 Rating                Price               Availability
+1.       Havells Compact Hair Dryer HD3151                   4.4                  899                 available
+
+2.        Nova Foldable NHD-2807 Hair Dryer                 4.1                  359                 available
+
+3.        Havells HD3101 Hair Dryer                          4.3                 749                  available
+
+4.        Choaba 2800 Hair Dryer 2000 Watt                    4.2                  570                 available
+
+5.        Philips HP8100 Hair Dryer                            4.4                779              available
+
+6.        Panasonic EH-ND11-P62B Hair Dryer                   4.2                 639                  available
+
+7.        Syska HD1610-White Hair Dryer                        4.3                 764                 available

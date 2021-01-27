@@ -1,0 +1,14 @@
+S.No           Name of item                              Rating                Price               Availability
+1.         Sony Wired External HDD(1TB)                   4.3                  3799                 available
+
+2.        Sony Wired External HDD(2TB)                      4.3                  5499                 available
+
+3.        Toshiba Canvio Wired External HDD(2TB)             4.5                 4998                  available
+
+4.        Toshiba Canvio Basic External HDD(1TB)             4.2                  4095                 available
+
+5.        Segate 4 TB Wired External HDD                     4.2                10999              available
+
+6.        Segate 10 TB Wired External HDD                   4.7                 21199                  available
+
+7.        Transcend H3P 2 TB External HDD                    4.4                 7800                 available

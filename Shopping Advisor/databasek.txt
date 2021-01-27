@@ -1,0 +1,14 @@
+S.No             Name of item                          Price       Net.quantity           Availability
+1.         Life Buoy 4 in one Pack (125gm*4)            INR 112          4          available
+
+2.      Dove Milk Protein 3 Pack(100gm*3)              INR 165            3            available
+
+3.      Wild Stone Morning Freshner 4 Pack(125gm*4)   INR 135            4        available
+
+4.      Pears 3 Pack (75gm*3)                        INR 150            3          available
+
+5.      Nivea Cream Soaps(125gm*5)                   INR 225            5          available
+
+6.      Cinthol Deodarant Soaps(75gm*5)              INR 160            5           available
+
+7.      Johnson Baby Soaps(75gm*4)                   INR 160           4         available

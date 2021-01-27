@@ -1,0 +1,14 @@
+S.No          Name of item                             Price                Availability
+1.          Perfect-Fit Solid Black CasualShirt       INR 1699             available
+
+2.         Checkered Casual Red-Black Shirt            INR 1404              available
+
+3.          Solid Formal Blue Shirt                  INR 1449              available
+
+4.          Checkered White-Grey Colour Shirt       INR 550               available
+
+5.         Perfect Fit Formal white Shirt            INR 1599               available
+
+6.        Solid Henley Black Shirt                  INR 1649               available
+
+7.        Perfect Fit Blue Shirt                      INR 1799               available

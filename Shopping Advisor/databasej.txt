@@ -1,0 +1,14 @@
+S.No             Name of item                   Price       Net.quantity           Availability
+1.          Himalaya Body Lotion                  INR 165          200ml          available
+
+2.      Dove Milk Protein Body Lotion            INR 185            180ml            available
+
+3.      Parachute Face Cream                    INR 85             200ml             available
+
+4.      Loreal Smooth & Silky Body Cream         INR 225             150ml          available
+
+5.      Nivea Winter Face Cream                  INR 195            200ml          available
+
+6.      Johnson Body Lotion & Face Cream          INR 160            190ml           available
+
+7.      Johnson Baby Face Powder                    INR 160           250gm         available

@@ -1,0 +1,25 @@
+S.No           Name                                        Rating      Price           Availability
+1.          IFB 8 kg Fully Automatic Front Load             4.5           33,499        available
+
+Specifications:Fully Automatic Front Load,power:2250W,Capacity:8Kg|Max Spin Speed:1400rpm,Stainless Steel,Tumble Wash,Digital Display Supported|14 wash programs.
+
+2.        Bosch 7 Kg Front Load                             4.4          29,999          available
+
+Specifications:Fully Automatic Front Load,power:990W,Capacity:7Kg|Max Spin Speed:1200rpm,
+Stainless Steel,Tumble Wash,Digital Display Supported|15 wash programs.
+
+3.        IFB 7 Kg Automated Front Load                     4.3          27,490            available
+
+Specifications:Fully Automatic Front Load,power:2000W,Capacity:7Kg|Max Spin Speed:1000rpm,
+Stainless Steel,Tumble Wash,Digital Display Supported|15 wash programs.
+
+4.       IFB 6.5 Kg Automated Top Load                      4.3          15,999             available
+
+Specifications:Fully Automatic Top Load,power:360W,Capacity:6.5Kg|Max Spin Speed:720rpm,
+Stainless Steel,Triadic Pulsator,Digital Display Supported|6 wash programs,Lint Filter Supported.
+
+5.      Whirlpool 6.2 Kg Automated Top Load                4.2         15,799              available
+
+Specifications:Fully Automatic Top Load,power:360W,Capacity:6.2Kg|Max Spin Speed:740rpm,
+Stainless Steel,Spa Wash with 3D Scrub Technology,Digital Display Supported|12 wash programs,Lint Filter Supported.
+

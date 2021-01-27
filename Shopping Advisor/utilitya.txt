@@ -1,0 +1,4 @@
+1.Mobiles
+2.Laptops
+3.Refrigerators
+4.Washing machines

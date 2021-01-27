@@ -1,0 +1,22 @@
+S.No           Name                         Rating      Price           Availability
+1.       Asus ZenBook S Core i7 8th Gen       4.9      1,04,990        available
+
+ Specifications:intel core i7 Processor,16GB DDR3 RAM,64 bit Windows 10 Operating                                              System,512GB SSD,33.78cm(13.3inch)Display
+
+2.       Asus VivoBookS14 Core i7 8th Gen       4.6        81,990          available
+
+Specifications:intel Core i7 Processor,8GB RAM,64 bit Windows 10 Operating System,1 TB HDD|                                 256 SSD,35.56CM(14inch)Display
+
+3.       Lenovo Ideapad 330 Core i7 8th Gen    4.1         61,990          available
+
+Specifications:intel Core i7 Processor,8 GB DDR4 RAM,64 bit Windows 10 operating System,
+                     1 TB HDD,39.6cm(15.6inch) Display
+
+4.       HP 15 Core i3 7th Gen                 4.1         32,990           available
+
+Specifications:intel Core i3 Processor,4 GB DDR4 RAM,64 bit Windows 10 Operating system
+                     1 TB HDD,39.62cm(15.6inch) Display
+
+5.       HP G APU Quad Core A6               3.9         18,900            available
+
+Specifications:4 GB DDR3 RAM,DOS Operating System,500GB HDD,35.56cm(14inch) Display

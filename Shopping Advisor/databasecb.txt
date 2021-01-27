@@ -1,0 +1,23 @@
+S.No           Name                       Rating      Price           Availability
+1.      Godrej 261 L                         4.0               22,490       available
+
+  Specifications:Rotatory Compressor,3 star:energy savings upto 35%,Toughened Glass Shelves,
+                         261 L:Good enough for 4 member family,Built-in Stabilizer.
+
+2.       Godrej 330 L                       4.3               22,890        available
+
+  Specifications:Reciprocatory Compressor,2 star:energy savings upto 20%,Toughened Glass                           Shelves,330 L:God enough for 5 members family,Built-in Stabilizer.
+
+3.        Whirlpool 265 L                  4.3               23,490      available
+
+  Specifications:Inverter Compressor,4 star:energy savings upto 45%,Toughened Glass Shelves,
+                         265 L:Good enough for 3-5 member family,Built-in Stabilizer.
+
+4.        LG 260 L                           4.4              24,990      available
+
+ Specifications:Smart Inverter Compressor,4 star:energy savings upto 45%,Toughened Glass                            Shelves,enough for the families of 3-5 members,built in Stabilizer.
+
+5.         Samsung 253 L                      4.5         26,490      available
+
+ Specifications:Digital Inverter Compressor,4 star :energy savings upto 45%,Toughened Glass                          Shelves,253 L :Good for family of 3-5 members,Built-in Stabilizer.
+

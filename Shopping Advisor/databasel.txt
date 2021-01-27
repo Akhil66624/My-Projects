@@ -1,0 +1,14 @@
+S.No             Name of item              Price       Net.quantity           Availability
+1.         Axe                           INR 212          200ml         available
+
+2.      Fogg                             INR 265           150ml           available
+
+3.      Wild Stone Cool Blue             INR 235            175ml        available
+
+4.      Play Boy                           INR 200          150ml          available
+
+5.      Nivea Body Spray                    INR 225          200ml          available
+
+6.      Cinthol Deodarant                   INR 180         190ml           available
+
+7.      Park Avenue                        INR 185           200ml         available

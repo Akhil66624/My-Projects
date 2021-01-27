@@ -1,0 +1,14 @@
+S.No          Name of item                             Price                Availability
+1.          Plain Round Neck Black Hoddy              INR 2190             available
+
+2.         Casual White-Graphic printed Hoddy          INR 2100             available
+
+3.          Solid Blue Triadic Hoddy                     INR 2140              available
+
+4.          Checkered White-Grey Hoddy                  INR 2150               available
+
+5.         Perfect Fit Plain Brown Hoddy               INR 2190               available
+
+6.        Solid Henley Red-Blue Hoddy                   INR 2140               available
+
+7.        Perfect Fit Yellow Hoddy                     INR 2190               available

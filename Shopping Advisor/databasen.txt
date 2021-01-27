@@ -1,0 +1,14 @@
+ S.No           Name of item                   Price                Quantity                Availability
+1.         Britania Mixed Fruit Cake         Rs 20                  200gm                    available
+
+2.        Nestle Choco Cake                    Rs 35                225gm                    available
+
+3.        Mixed Fruit Bun                      Rs 75                 500gm                available
+
+4.       Oreo Chocolate                          Rs 30                120gm                  available
+
+5.        Black Bourbon                         Rs 35                   100gm                   available
+
+6.       Treat Jam                                Rs 25               100gm                 available
+
+7.       Gooday Badam & Pista                   Rs 40               175gm                   available

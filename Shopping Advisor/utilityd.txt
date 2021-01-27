@@ -1,0 +1,4 @@
+1.Soft drinks
+2.Cookies
+3.Fruits
+4.Vegetables

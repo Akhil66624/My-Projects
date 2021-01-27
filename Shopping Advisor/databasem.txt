@@ -1,0 +1,14 @@
+S.No           Name of item                   Price                Quantity                Availability
+1.         Minute Maid Pulpy Orange          Rs 65                 1 Ltr                    available
+
+2.        Maaza                               Rs 85                2 Ltr                     available
+
+3.        Real Mixed Fruit Juice               Rs 75               1.5 Ltr                available
+
+4.       Fruity                              Rs 70                1 Ltr                   available
+
+5.      Pepsi                                 Rs 125              2 Ltr                   available
+
+6.      ThumsUP                              Rs 85               1.5 Ltr                 available
+
+7.      Mirinda                               Rs 60                1 Ltr                   available

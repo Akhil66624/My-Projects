@@ -1,0 +1,14 @@
+	S.No           Name of item                      Rating                Price               Availability
+1.       Bose Soundsport Wireless Bluetooth               4.4                  18990                 available
+
+2.        Bose SoundLink Around Ear with Mic             4.6                  19000                 available
+
+3.        Mi Basic Wired Headset with Mic                 4.3                 399                  available
+
+4.       JBL T450BT Extra Bass Headset with Mic           4.3                  2199                 available
+
+5.        JBL T250SI Wired Headphone                        4.1                799              available
+
+6.        Sennheiser HD 4.40BT Headset with Mic            4.4                 7490                  available
+
+7.       Sony ZX110A Wired Headphone                      4.3                 649                 available

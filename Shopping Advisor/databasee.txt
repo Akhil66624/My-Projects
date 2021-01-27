@@ -1,0 +1,14 @@
+S.No          Name of item                           Price                Availability
+1.          Printed Round or crew blue T-Shirt       INR 699             available
+
+2.         Checkered Round Neck white T-Shirt          INR 404              available
+
+3.          Solid Polo Neck Red T-Shirt               INR 449              available
+
+4.          Graphic Print White-Grey Colour T-Shirt    INR 550               available
+
+5.         Printed V-Neck Multicolour T-Shirt           INR 599               available
+
+6.        Solid Henley Black Round Neck T-Shirt        INR 649               available
+
+7.        Solid Hooded Black & Red T-Shirt            INR 799               available
